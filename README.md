@@ -9,6 +9,10 @@
 - 📫 How to reach me: [@KodgireKedar](https://twitter.com/KodgireKedar) or <a rel="me" href="https://linkedin.com/kk255728">Kedar Kodgire</a>
 - ⚡ Fun fact: I :heart: reading 📚 on 💵 and 🧠
 
+---
+
 #### 📰 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
