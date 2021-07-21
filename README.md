@@ -15,4 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+[read more](https://dev.to/kedark)
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kedar-K&layout=compact)](https://github.com/Kedar-K)
