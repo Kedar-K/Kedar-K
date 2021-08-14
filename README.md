@@ -13,11 +13,11 @@
 
 #### 📰 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Must have tools for bloggers.](https://dev.to/kedark/must-have-tools-for-bloggers-1jd1)
 - [Making API calls in python](https://dev.to/kedark/making-api-calls-in-python-17pk)
 - [Pillars of OOPS (in python)](https://dev.to/kedark/pillars-of-oops-in-python-k6a)
 - [Twitter Automation - automatically tweets about your new blog on DEV.to](https://dev.to/kedark/twitter-automation-automatically-tweets-about-your-new-blog-on-dev-to-2nkk)
 - [10 Unique VS code extensions- Boost Your Productivity😎](https://dev.to/kedark/10-unique-vs-code-extensions-boost-your-productivity-8e7)
-- [I did Exploratory data analysis on Medium blogs. which can answer: On what day to post a blog, etc.](https://dev.to/kedark/i-did-exploratory-data-analysis-on-medium-blogs-which-can-answer-on-what-day-to-post-a-blog-etc-2p3n)
 <!-- BLOG-POST-LIST:END -->
 
 #### [read more](https://dev.to/kedark)
