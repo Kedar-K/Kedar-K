@@ -13,11 +13,11 @@
 
 #### 📰 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is horizontal and vertical scaling?](https://dev.to/kedark/what-is-horizontal-and-vertical-scaling-2139)
 - [What is overfitting in machine learning?](https://dev.to/kedark/what-is-overfitting-in-machine-learning-4ga2)
 - [What is nohup in Linux?](https://dev.to/kedark/what-is-nohup-in-linux-1fej)
 - [Must have tools for bloggers.](https://dev.to/kedark/must-have-tools-for-bloggers-1jd1)
 - [Making API calls in python](https://dev.to/kedark/making-api-calls-in-python-17pk)
-- [Pillars of OOPS (in python)](https://dev.to/kedark/pillars-of-oops-in-python-k6a)
 <!-- BLOG-POST-LIST:END -->
 
 #### [read more](https://dev.to/kedark)
